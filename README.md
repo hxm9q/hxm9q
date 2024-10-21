@@ -20,7 +20,7 @@
 # 📁 My Projects:
 - [C projects](https://github.com/stars/hxm9q/lists/c-projects)
 - [C++ projects]()
-- [DevOps projects]()
+- [DevOps projects](https://github.com/stars/hxm9q/lists/devops)
 
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hxm9q&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
