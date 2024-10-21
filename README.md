@@ -11,8 +11,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
 
-# 📂 My Projects:
-- [Project 1](https://github.com/hxm9q/C3_SimpleBashUtils)
+# 📁 My Projects:
+- [C projects](https://github.com/stars/hxm9q/lists/c-projects)
 
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hxm9q&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
