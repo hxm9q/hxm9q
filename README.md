@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
 
-# 📁 My Projects:
+# 📂 My Projects:
 - [C projects](https://github.com/stars/hxm9q/lists/c-projects)
 - [C++ projects](https://github.com/stars/hxm9q/lists/cpp-projects)
 - [DevOps projects](https://github.com/stars/hxm9q/lists/devops)
