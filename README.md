@@ -19,7 +19,7 @@
 
 # 📁 My Projects:
 - [C projects](https://github.com/stars/hxm9q/lists/c-projects)
-- [C++ projects]()
+- [C++ projects](https://github.com/stars/hxm9q/lists/cpp-projects)
 - [DevOps projects](https://github.com/stars/hxm9q/lists/devops)
 
 <!--# 📊 GitHub Stats:
