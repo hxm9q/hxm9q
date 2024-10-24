@@ -22,6 +22,7 @@
 - [C++ projects](https://github.com/stars/hxm9q/lists/cpp-projects)
 - [DevOps projects](https://github.com/stars/hxm9q/lists/devops)
 - [PostgreSQL projects](https://github.com/stars/hxm9q/lists/sql-bootcamp)
+- [Swift projects](https://github.com/stars/hxm9q/lists/swift-projects)
 
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hxm9q&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
