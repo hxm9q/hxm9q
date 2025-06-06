@@ -17,7 +17,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
 
-# 📂 My Projects:
+# 📂 My iOS Pet Projects:
+![UIKit BlogApp](https://github.com/hxm9q/UIKit-Blog-App)
+
+# 📂 All My Projects:
 - [Swift projects](https://github.com/stars/hxm9q/lists/swift-projects)
 - [PostgreSQL projects](https://github.com/stars/hxm9q/lists/sql-bootcamp)
 - [C projects](https://github.com/stars/hxm9q/lists/c-projects)
