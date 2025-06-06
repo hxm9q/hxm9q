@@ -20,12 +20,14 @@
 # 📂 My iOS Pet Projects:
 - [UIKit BlogApp](https://github.com/hxm9q/UIKit-Blog-App)
 
+- [Other Simple Projects](https://github.com/stars/hxm9q/lists/swift-projects)
+
 # 📂 All My Projects:
-- [Swift projects](https://github.com/stars/hxm9q/lists/swift-projects)
 - [PostgreSQL projects](https://github.com/stars/hxm9q/lists/sql-bootcamp)
 - [C projects](https://github.com/stars/hxm9q/lists/c-projects)
 - [C++ projects](https://github.com/stars/hxm9q/lists/cpp-projects)
 - [DevOps projects](https://github.com/stars/hxm9q/lists/devops)
+- - [Swift projects](https://github.com/stars/hxm9q/lists/swift-projects)
 
 
 
