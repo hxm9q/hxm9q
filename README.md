@@ -9,6 +9,11 @@
 📫 How to reach me: hxm9q@icloud.com / [t.me/hxm9q](https://t.me/hxm9q)
 
 
+# 📂 My iOS Pet Projects:
+- [UIKit BlogApp](https://github.com/hxm9q/UIKit-Blog-App)
+
+- [Other Simple Projects](https://github.com/stars/hxm9q/lists/swift-projects)
+
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
@@ -19,17 +24,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
 
-# 📂 My iOS Pet Projects:
-- [UIKit BlogApp](https://github.com/hxm9q/UIKit-Blog-App)
-
-- [Other Simple Projects](https://github.com/stars/hxm9q/lists/swift-projects)
-
 # 📂 All My Projects:
 - [PostgreSQL projects](https://github.com/stars/hxm9q/lists/sql-bootcamp)
 - [C projects](https://github.com/stars/hxm9q/lists/c-projects)
 - [C++ projects](https://github.com/stars/hxm9q/lists/cpp-projects)
 - [DevOps projects](https://github.com/stars/hxm9q/lists/devops)
-- - [Swift projects](https://github.com/stars/hxm9q/lists/swift-projects)
+- [Swift projects](https://github.com/stars/hxm9q/lists/swift-projects)
 
 
 
