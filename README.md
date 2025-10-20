@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🧑🏼‍💻 Anton Shadrin, 21 y.o.<br>
+🧑🏼‍💻 Anton Shadrin, 22 y.o.<br>
 <br>
 ⚡ Student of Programming School 21 by Sber<br>
 🌱 I’m currently learning Swift<br>
@@ -9,6 +9,8 @@
 
 
 # 📂 My iOS Pet Projects:
+- [UIKit CryptoTracker](https://github.com/hxm9q/CryptoWallet)
+
 - [UIKit BlogApp](https://github.com/hxm9q/UIKit-Blog-App)
 
 - [Other Simple Projects](https://github.com/stars/hxm9q/lists/swift-projects)
@@ -16,6 +18,7 @@
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-524520?logo=swift)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
