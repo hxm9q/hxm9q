@@ -2,7 +2,7 @@
 # 💫 About Me:
 🧑🏼‍💻 Anton Shadrin, 22 y.o.<br>
 <br>
-⚡ Student of Programming School 21 by Sber<br>
+⚡ Graduate of Programming School 21 by Sber<br>
 🌱 I’m currently learning Swift<br>
 <br>
 📫 How to reach me: hxm9q@icloud.com / [t.me/hxm9q](https://t.me/hxm9q)
