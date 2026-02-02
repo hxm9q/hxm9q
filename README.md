@@ -9,11 +9,9 @@
 
 
 # 📂 My iOS Pet Projects:
-- [UIKit CryptoTracker](https://github.com/hxm9q/CryptoWallet)
-
-- [UIKit BlogApp](https://github.com/hxm9q/UIKit-Blog-App)
-
-- [Other Simple Projects](https://github.com/stars/hxm9q/lists/swift-projects)
+- [Apps](https://github.com/stars/hxm9q/lists/ios-applications)
+  
+- [Simple Apps](https://github.com/stars/hxm9q/lists/simple-ios-applications)
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -31,9 +29,7 @@
 - [C projects](https://github.com/stars/hxm9q/lists/c-projects)
 - [C++ projects](https://github.com/stars/hxm9q/lists/cpp-projects)
 - [DevOps projects](https://github.com/stars/hxm9q/lists/devops)
-- [Swift projects](https://github.com/stars/hxm9q/lists/swift-projects)
-
-
+- [Swift projects](https://github.com/stars/hxm9q/lists/swift-projects-school21)
 
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hxm9q&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
